@@ -1,0 +1,128 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.wrapper{
+    background-image: linear-gradient( to bottom right,#1D0D11, #6F5964,#1E0E12);
+    height: 1040px;
+    width: 980px;
+    margin: 0 auto;
+}
+.header{
+    background-color:#F9F9F9;
+    padding: 12px;
+}
+h1{
+    display: inline-block;
+}
+h2{
+    display: inline-block;
+    margin-left: 439px;
+}
+.photo-me{
+    width: 393px;
+    border: lightgray;
+    margin-left: 20px;
+    margin-top: 20px;
+    border: solid;
+    border-color:#C0C0C0;
+}
+#about{
+    display: inline-block;
+    width: 520px;
+    height: 263px;
+    background-color:#E3D8E3;
+    margin-left: 20px;
+    vertical-align: top;
+    margin-top: 20px;
+}
+#about p{
+    margin-top: 13px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#about h3{
+    background-image:linear-gradient(#9D9CA5,#8C8A97,#9D9CA5);
+    color: white;
+    padding: 10px;
+}
+.portfilio-projects{
+    display: inline-block;
+    vertical-align: top;
+    width: 980px;
+}
+.projects{
+    display: inline-block;
+    vertical-align: top;
+    width: 300px;
+    margin-left: 20px;
+    background-color: #DFD2DE;
+    height: 590px;
+    margin-top: 20px;
+}
+.main-photo{
+    width: 300px;
+}
+.projects h3{
+    background-image: linear-gradient(#A9A9AE,#8B8A96,#A9A9AE);
+    color: white;
+    padding: 7px;
+}
+.projects h4{
+    background-image: linear-gradient(#A9A9AE,#8B8A96,#A9A9AE);
+    color: white;
+    padding: 7px;
+}
+.projects-info p{
+    padding-bottom: 37px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 6px;
+}
+
+.tech-codes{
+    width: 45px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.tech-button{
+    display: flex;
+    justify-content: center;
+    background-color: #407D61;
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 0px;
+}
+.projects-info{
+    height: 159px;
+}
+.tech{
+    height: 150px;
+}
+.project-button{
+    display: flex;
+    justify-content: center;
+}
+#about a{
+    color: black;
+}
+#contact-info{
+    background-color: white;
+    margin-top: 34px;
+    width: 980px;
+    height: 46px;
+}
+.social-media{
+    width: 20px;
+    display: inline-block;
+}
+#contact-info a{
+    color: black;
+}
+#contact-info p{
+    margin-left: 380px;
+}
+.social-media:nth-of-type(1){
+    margin-left: 325px;
+}
